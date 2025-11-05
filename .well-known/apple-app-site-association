@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "UCMB9JK9YQ.com.hubertkraus.Minuto",
-        "paths": [ "*" ]
+        "paths": [ "/nfc/*" ] 
       }
     ]
   }
