@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": ["UCMB9JK9YQ.com.hubertkraus.Minuto" ],
+             "appID": ["UCMB9JK9YQ.hubertkraus.Minuto" ],
              "components": [
                {
                   "/": "/nfc/*",
