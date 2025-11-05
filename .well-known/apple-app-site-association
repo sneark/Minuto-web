@@ -2,11 +2,10 @@
   "applinks": {
       "details": [
            {
-             "appID": ["UCMB9JK9YQ.hubertkraus.Minuto" ],
+             "appID": "UCMB9JK9YQ.com.hubertkraus.Minuto",
              "components": [
                {
-                  "/": "/nfc/*",
-                  "comment": "Matches any URL with a path that starts with /buy/."
+                  "/": "/nfc/*"
                }
              ]
            }
