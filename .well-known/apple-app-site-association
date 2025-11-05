@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "TWOJ_TEAM_ID.com.twoja-firma.nazwa-aplikacji",
-        "paths": [ "/nfc/*" ]
+        "appID": "UCMB9JK9YQ.com.hubertkraus.Minuto",
+        "paths": [ "*" ]
       }
     ]
   }
