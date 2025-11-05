@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TWOJ_TEAM_ID.com.twoja-firma.nazwa-aplikacji",
+        "paths": [ "/nfc/*" ]
+      }
+    ]
+  }
+}
